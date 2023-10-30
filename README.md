@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alimorad Khajehzadeh
 - 👀 I’m interested in artificial intelligence projects
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently develop deep learning programs
 - 💞️ I’m looking to collaborate on artificial intelligence projects
 - 📫 How to reach me by alimoradkhajehzadeh@gmail.com
 
